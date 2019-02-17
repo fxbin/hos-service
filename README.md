@@ -1,5 +1,5 @@
 # hos-service
-Object Store On Hbase/ A simple object store demo for learning hadoop&hbase ...
+Object Store On Hbase/ A simple object store sevice for learning hadoop&hbase ...
 
 ### 文件管理
     上传，下载，删除，权限控制
